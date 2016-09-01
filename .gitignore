@@ -1,2 +1,5 @@
+#ignore System file
 .DS_Store
+
+#ignore Readme.txt
 README.txt
